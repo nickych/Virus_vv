@@ -1,16 +1,16 @@
 """
 
 For the code to run, you need to install rotatescreen, to do that, follow the following:
-On windows simply open command line and type (pip install rotate-screen)
+On windows simply open Command-Line/Shell and type (pip install rotate-screen)
 ------------------------------------------------------------------------------------------------------------
 
-on Linux system simply open terminal and type (sudo pip install rotate-screen)
+on Linux system simply open Terminal and type (sudo pip install rotate-screen)
 
 After that you also need to install pywin32, to do that on:
 
 Linux, open Terminal then type (sudo pip install pywin32)
 ------------------------------------------------------------------------------------------------------------
-Windows, open Command-line/Shell then type (pip install pywind)
+Windows, open Command-Line/Shell then type (pip install pywind)
 
 """
 
