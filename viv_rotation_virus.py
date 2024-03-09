@@ -1,4 +1,12 @@
-#
+"""
+
+For the code to run, you need to install rotatescreen, to do that, follow the following:
+On windows simply open command line and type (pip install rotate-screen)
+------------------------------------------------------------------------------------------------------------
+
+on Linux system simply open terminal and type (sudo pip install rotate-screen)
+
+"""
 
 import time, rotatescreen as db  #Time and rotatescreen are libraries
 
