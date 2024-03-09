@@ -1,6 +1,6 @@
 #
 
-import time, rotatescreen as db
+import time, rotatescreen as db  #Time and rotatescreen are libraries
 
 vira = db.get_primary_display()
 angles_num = [90, 180, 270, 0]
