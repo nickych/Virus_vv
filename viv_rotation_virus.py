@@ -14,6 +14,7 @@ Windows, open Command-Line/Shell then type (pip install pywind)
 
 """
 
+
 import time, rotatescreen as db  #Time and rotatescreen are libraries
 
 vira = db.get_primary_display()
