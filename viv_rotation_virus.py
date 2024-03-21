@@ -23,3 +23,5 @@ angles_num = [90, 180, 270, 0]
 for virus in angles_num:
   vira.rotate_to(virus)
   time.sleep(20.0)
+
+#Next
